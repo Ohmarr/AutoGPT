@@ -1,2 +1,2 @@
 # AutoGPT
-Testing &amp; Working w/ ChatGPT for various applications
+A repository for testing and Working w/ ChatGPT for various applications
